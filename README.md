@@ -122,10 +122,10 @@
 ### 什么是最好的托管加密钱包？
 最好的托管钱包因个人需求和偏好而异，以下是五款最佳托管钱包：
 
-1. [OKX}(https://www.okx.com/)
+1. [OKX](https://www.okx.com/)
 2. [Coinbase](https://www.coinbase.com/)
 3. [Gemini](https://www.gemini.com/)
-4. [BitMEX])(https://www.bitmex.com/)
+4. [BitMEX](https://www.bitmex.com/)
 5. [BitGo](https://bitgo.com/)
 
 
